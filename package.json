@@ -1,0 +1,27 @@
+{
+  "name": "nordjs",
+  "version": "0.0.1",
+  "description": "NodeJS client for nordvpn",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjangsangy/NordJS.git"
+  },
+  "keywords": [
+    "vpn"
+  ],
+  "author": "Sang Han <jjangsangy@gmail.com> (https://sanghan.xyz)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jjangsangy/NordJS/issues"
+  },
+  "homepage": "https://github.com/jjangsangy/NordJS#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "json-transform-stream": "^1.0.1",
+    "request": "^2.81.0"
+  }
+}
